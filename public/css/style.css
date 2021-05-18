@@ -1,0 +1,56 @@
+body{
+    overflow-x: hidden;
+}
+.header-container{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: powderblue;  
+    padding: 1%;
+}
+
+
+.left{
+    background-color: darkturquoise;
+}
+.main-division{
+    min-height: 42rem;
+    border-radius: 5px;
+    position: relative;
+}
+
+.inside-division{
+    min-height: 20rem;
+    padding: 2rem 5rem;
+}
+.party-container{
+    background-color:powderblue;
+    border-radius: 10px;
+    padding: 10%;
+    text-align: center;
+}
+.party-container-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.login-container{
+    min-height: 30rem;
+    background-color: powderblue;
+    max-width: 30rem;
+    margin: 8% 20%;
+    border-radius: 10px;
+    padding: 1% 10%;
+}
+
+
+
+.footer-container{
+    text-align: center;
+    background-color: powderblue;
+    padding: 1.2%;
+}
+.footer-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}

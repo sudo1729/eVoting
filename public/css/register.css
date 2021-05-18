@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.header-container{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: powderblue;  
+    padding: 1%;
+}
+
+.middle-container{
+    min-height: 40rem;
+    border-radius: 5px;
+    position: relative;
+}
+
+.form-container{
+    min-height: 10rem;
+    background-color: powderblue;
+    max-width: 30rem;
+    margin: 5% 30%;
+    border-radius: 10px;
+    padding: 1% 5%;
+    position: fixed;
+}
+
+.footer-container{
+    text-align: center;
+    background-color: powderblue;
+    padding: 1.3%;
+}
+.footer-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
